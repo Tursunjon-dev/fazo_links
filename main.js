@@ -1,4 +1,6 @@
 // Har bir ijtimoiy tarmoq uchun linklar ro'yxati
+'use strict'
+  console.log("GITHUB");
 const socialLinks = {
     telegram: "",
     instagram: "",
